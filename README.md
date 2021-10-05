@@ -1,8 +1,8 @@
-https://imgur.com/i3i0RV5
+https://imgur.com/fqa1Qup
 # dev-environment-lab
 
 ## OS
- 
+
 linux-gnu
 
 ## Shell
